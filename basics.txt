@@ -1,9 +1,1 @@
-git add file
-commands(18/11/2025)
-git init
-git status
-git add file
-git commit -m
-My name is muhammed sinan
-
-
+today i introduse in urdu
